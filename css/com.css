@@ -1,0 +1,54 @@
+.menu{
+    display: flex;
+    align-items: flex-end;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    width: 100%;
+    border: 1px solid #eeff00;
+    border-radius:10px;
+}
+
+.menu:hover{
+    transform: scale(1.0);  
+    box-shadow: 0px 10px 20px #eeff00;
+}
+
+.logo{
+    height: 100px;
+}
+
+.opcoes{
+    font-size: 30px;
+}
+
+.opcoes:hover {
+    transform: scale(1.2);
+}
+
+h1{
+    color: #eeff00;
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+   color: #eeff00;
+}
+
+h3{
+    color: #eeff00;
+}
+
+h4{
+    color: #eeff00;
+}
+
+a{
+    color: #eeff00;
+}
+
+body {
+    font-family:Poppins;
+    background-image: url(/Imagens/fundo.jpeg);
+}
